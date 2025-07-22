@@ -1,4 +1,3 @@
-export const runtime = 'edge'
 import { NewsletterAPI } from 'pliny/newsletter'
 import siteMetadata from '@/data/siteMetadata'
 
